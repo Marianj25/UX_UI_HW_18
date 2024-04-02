@@ -1,0 +1,24 @@
+.logo {
+    font-size: 24px;
+    font-weight: 200;
+}
+.content {
+    color: black;
+    font-size: 50;
+}
+.ul {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    line-height: 70px;
+    padding-left: 0px !important;
+}
+.background-container {
+    background-color: black;
+}
+.industries {
+    color: white;
+}
+.contact {
+    color: white; 
+}
